@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /_/
+Disallow: /cgi-bin/
+Disallow: /links.html
+Disallow: /recover2Feb/
